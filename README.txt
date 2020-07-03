@@ -5,5 +5,11 @@ public void test(int j){
 }
 
 public String demo(int i) {
-	System.out.println(develop commit);
+	System.out.println(develop2 commit);
+}
+
+
+public final static ifNull(List<String> list) {
+
+	return null;
 }
